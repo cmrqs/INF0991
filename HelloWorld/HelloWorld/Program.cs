@@ -2,9 +2,11 @@
 
 class Program
 {
+    // Alteração realizada por Carlos
     static void Main(string[] args)
     {
-       // Outras alterações realizadas por isabelle.
+        // Outra alteração realizada por Carlos
+        // Outras alterações realizadas por isabelle.
         Console.WriteLine("-------------------------------------------------");
         Console.WriteLine("Integer Types (signed):");
         sbyte sb = 20;
