@@ -19,6 +19,8 @@ namespace HelloWorld
             // adicionando modificacao para a v2.0
             Console.WriteLine("Commit V2.0");
             Console.WriteLine("Commit V2.1");
+            Console.WriteLine("Commit V2.2");
+
         }
     }
 }
