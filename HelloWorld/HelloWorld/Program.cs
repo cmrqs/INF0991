@@ -1,4 +1,9 @@
-﻿namespace HelloWorld;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace HelloWorld;
 
 class Program
 {
@@ -21,5 +26,10 @@ class Program
 
         // Alteracao realizada por Isabelle
         Console.WriteLine("Linhas a mais no código -- Isabelle");
+
+        // Adicionando mais alteracoes trabalho 2
+        Console.WriteLine("Commit Version 1.0 ");
+        Results r = new Results();
+        r.PrintResults();
     }
 }
