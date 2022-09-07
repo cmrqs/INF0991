@@ -10,9 +10,11 @@ namespace HelloWorld
         {
             Console.WriteLine("Commit V1.0");
             
-            // adicionando modificacao para a v2.0
+            // adicionando modificacao para a v3.0
             Console.WriteLine("Commit V3.0");
             Console.WriteLine("Commit V4.0");
+            Console.WriteLine("Commit V3.1");
+            Console.WriteLine("Commit v3.2");
 
         }
     }
